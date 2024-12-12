@@ -12,6 +12,7 @@
     "preview": "https://raw.githubusercontent.com/breatheco-de/set-up-an-SSL-in-openSSL-with-a-secure-server/main/.learn/assets/preview.png",
     "repository": "https://github.com/breatheco-de/set-up-an-SSL-in-openSSL-with-a-secure-server",
     "duration": 2,
+    "projectType": "project",
     "difficulty": "intermediate",
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "technologies": ["cybersecurity", "network", "ciberseguridad", "redes"],
