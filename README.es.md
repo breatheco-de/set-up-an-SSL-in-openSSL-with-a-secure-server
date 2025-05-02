@@ -152,7 +152,7 @@ chmod +x check_ssl.sh
 - [ ] Ejecuta el script especificando su nombre. También pueden proporcionar cualquier argumento necesario. Asumiendo que no se necesitan argumentos adicionales para este ejemplo, deben ejecutar:
 
 ```sh
-./check-rules.sh
+./check_ssl.sh
 ```
 
 - [ ] **Carga tus resultados.** La ejecucion del script te creara un archivo `report.json` que deberas copiar y pegarlo en la raíz de este proyecto. 
