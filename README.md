@@ -7,9 +7,6 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones están [disponibles en español](https://github.com/breatheco-de/set-up-an-SSL-in-openSSL-with-a-secure-server/blob/main/README.md)*
-<!-- endhide -->
-
-<!-- hide -->
 
 ### Before Starting...
 
@@ -24,7 +21,6 @@ This exercise aims to teach students how to set up a secure server using OpenSSL
 ### Requirements
 
 * A Debian virtual machine installed in VirtualBox. (we will use the previously configured machine in previous classes).
-
 
 ## 📝 Instructions
 

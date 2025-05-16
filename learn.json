@@ -6,12 +6,13 @@
     },
     "slug": "configuring-secure-server-ssl-tls-openssl",
     "description": {
-      "us": "Learn how to configure a secure server using OpenSSL to provide secure communications via SSL/TLS.",
-      "es": "Aprende a configurar un servidor seguro utilizando OpenSSL para proporcionar comunicaciones seguras mediante SSL/TLS."
+      "us": "Learn how to configure a secure server with OpenSSL, generating a self-signed SSL/TLS certificate and setting it up with Apache. This project covers private key creation, certificate signing, and server configuration to enable secure communication for a website, ensuring a safe connection via HTTPS.",
+      "es": "Aprende a configurar un servidor seguro con OpenSSL, generando un certificado SSL/TLS autofirmado y configurándolo con Apache. Este proyecto cubre la creación de una clave privada, la firma del certificado y la configuración del servidor para habilitar la comunicación segura para un sitio web, asegurando una conexión segura a través de HTTPS."
     },
     "preview": "https://raw.githubusercontent.com/breatheco-de/set-up-an-SSL-in-openSSL-with-a-secure-server/main/.learn/assets/preview.png",
     "repository": "https://github.com/breatheco-de/set-up-an-SSL-in-openSSL-with-a-secure-server",
     "duration": 2,
+    "projectType": "project",
     "difficulty": "intermediate",
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "technologies": ["cybersecurity", "network", "ciberseguridad", "redes"],
@@ -19,6 +20,9 @@
 		"instructions": {
 			"en": "Please upload your report.json file to your GitHub repository and provide the link to your repository here",
 			"es": "Por favor sube tu archivo report.json a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí"
+		},
+    "telemetry": {
+			"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1885"
 		}
   }
   }
